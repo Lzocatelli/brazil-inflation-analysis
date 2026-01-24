@@ -1,8 +1,11 @@
-# Brazilian Inflation Analysis (IPCA)
+# Brazilian Inflation Analysis | Exploratory Data Analysis (EDA)
 ## Period: 2010 - 2026
 
 ###  Project Overview
 This project performs an exploratory and visual analysis of the **IPCA (Broad Consumer Price Index)**, Brazil's official inflation gauge produced by IBGE. The goal is to identify economic cycles, price shocks, and the index's behavior relative to the inflation targets set by the Central Bank of Brazil.
+
+###  Why this matters
+The goal was to practice the full data analysis workflow while working with real-world macroeconomic data.
 
 ###  Key Macroeconomic Insights
 * **Target Monitoring:** Analysis of the **Inflation Targeting Framework** and its adherence during major cycles.
