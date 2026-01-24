@@ -112,4 +112,4 @@ if not df.empty:
     with st.expander("View Raw Data"):
         st.dataframe(df_filtered.sort_values(by='data', ascending=False), use_container_width=True)
 
-st.caption("Data Source: BCB | Project by: Lucas Zocatelli")
+st.caption("Data Source: BCB | Project by: Luiz Zocatelli")
